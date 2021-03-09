@@ -1,4 +1,4 @@
-## Hallo, i'm Iwan 
+## Hai, i'm Iwan 
 
 i'm lifelong learner who passionate about data, analytics and trying to make unpopular opinion.
 
