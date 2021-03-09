@@ -1,5 +1,7 @@
 ## Hallo, i'm Iwan 
 
+i'm lifelong learner who passionate about data, analytics and trying to make unpopular opinion.
+
 ## Programming Languages
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
 <img align="left" width="26px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
