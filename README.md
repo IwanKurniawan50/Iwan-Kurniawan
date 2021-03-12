@@ -1,6 +1,10 @@
 ## Hai, i'm Iwan 
 
 i'm lifelong learner who curious about data, analytics and trying to make unpopular opinion.
+- make it works
+- make it beautiful
+- make it fast
+
 
 ## Programming Languages
 <img align="left" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
