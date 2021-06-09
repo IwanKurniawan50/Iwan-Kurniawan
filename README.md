@@ -1,6 +1,6 @@
 ## Hai, i'm Iwan 
 
-i'm lifelong learner who curious about data, analytics and trying to make simple & easy communication.
+Loving data.
 - make it works
 - make it beautiful
 - make it fast
