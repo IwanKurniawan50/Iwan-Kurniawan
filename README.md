@@ -1,6 +1,5 @@
 ## Hai, i'm Iwan 
 
-Loving data.
 - make it works
 - make it beautiful
 - make it fast
