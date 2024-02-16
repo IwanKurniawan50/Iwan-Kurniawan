@@ -16,4 +16,4 @@ I speak English, Indonesian and Javanese (mother tongue), but very professional 
 ## Programming Languages
 <img align="left" width="30px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
 <img align="left" width="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
-<img align="left" width="30px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+<img align="left" width="33px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
