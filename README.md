@@ -2,7 +2,7 @@
 
 A beginner analyst based in Jakarta. I enjoy learning something new, also like reading books and sports. Occasionally, publish posts [here](https://medium.com/@kurniawan50).
 
-Presently working as a Support Analyst at Telkom Indonesia. In my daily job, I do a lot of simple analytics to determine sales performance. From the start of a professional career, many jobs are related to data and analysis.
+Presently working as a Support Analyst at [Telkom Indonesia](https://www.telkom.co.id/sites). In my daily job, I do a lot of simple analytics to determine sales performance. From the start of a professional career, many jobs are related to data and analysis.
 
 Accomplished bachelor in Industrial Engineering from [UPN "Veteran" Jakarta](https://www.upnvj.ac.id/). The thing I like is learning to think and shape logic, which is highly useful in a professional career.
 
