@@ -12,5 +12,6 @@ A beginner analyst based in Jakarta. I enjoy learning something new, also like r
 <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+<img align="left" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)">
 <img align="left" width="35px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
 <img align="left" width="35px" src="https://www.svgrepo.com/show/354012/looker-icon.svg">
