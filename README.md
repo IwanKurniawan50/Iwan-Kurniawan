@@ -13,7 +13,7 @@ I speak English, Indonesian and Javanese (mother tongue), but very professional 
 - make it fast
 
 
-## Programming Languages
-<img align="left" width="30px" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png">
-<img align="left" width="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png">
-<img align="left" width="33px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
+## Some Tools I Have Used and Learned
+<img align="left" width="30px" src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
+<img align="left" width="30px" src="[https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+<img align="left" width="30px" src="[https://www.mysql.com/common/logos/logo-mysql-170x115.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
