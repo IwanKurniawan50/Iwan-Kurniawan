@@ -1,4 +1,4 @@
-# Hi there! I'm Iwan :construction_worker_man:
+# Hi there! Iwan here :construction_worker_man:
 
 A beginner analyst based in Jakarta. I enjoy learning something new, also like reading books and sports. Occasionally, publish posts [here](https://medium.com/@kurniawan50).
 
