@@ -16,4 +16,4 @@ I speak English, Indonesian and Javanese (mother tongue), but very professional 
 ## Some Tools I Have Used and Learned
 <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 <img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="left" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="left" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
