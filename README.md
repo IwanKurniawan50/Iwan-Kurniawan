@@ -1,6 +1,6 @@
 # Hi there! Iwan here :construction_worker_man:
 
-A beginner analyst based in Jakarta. I enjoy learning something new, also like reading books and sports. Occasionally, publish posts [here](https://medium.com/@kurniawan50). Presently working as a Support Analyst at [Telkom Indonesia](https://www.telkom.co.id/sites). In my daily job, I do a lot of simple analytics to determine sales performance. From the start of a professional career, many jobs are related to data and analysis. I speak English, Indonesian and Javanese (mother tongue), but very professional in Google Translate. I will enjoy connecting with you, feel free to add my [linkedin](https://www.linkedin.com/in/iwankurniawan50/).
+A beginner analyst based in Jakarta. I enjoy learning something new, also like reading books and sports. Occasionally, publish posts [here](https://medium.com/@kurniawan50). Presently working as a Support Analyst at Telco Company. In my daily job, I do a lot of simple analytics to determine sales performance. From the start of a professional career, many jobs are related to data and analysis. I speak English, Indonesian and Javanese (mother tongue), but very professional in Google Translate. I will enjoy connecting with you, feel free to add my [linkedin](https://www.linkedin.com/in/iwankurniawan50/).
 
 - make it work 
 - make it beautiful
